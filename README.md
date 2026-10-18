@@ -12,9 +12,7 @@ The suite automates one complete business journey: an Agent signs up, is activat
 Full automation run in **headed mode** (recorded by Playwright, one video for the whole journey):
 
 - Video file in this repository: [`recordings/dmoney-full-run.webm`](recordings/dmoney-full-run.webm)
-
-<!-- After pushing: edit this README on github.com, drag recordings/dmoney-full-run.webm into the editor,
-     and GitHub will insert an inline player link here. Delete this comment when done. -->
+[dmoney-full-run.webm](https://github.com/user-attachments/assets/a007cb7a-08d6-4382-ba11-edb99b501b08)
 
 ---
 
